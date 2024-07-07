@@ -5,6 +5,8 @@
 - 👯 Looking to collaborate on interesting projects.
 - 📫 How to reach me: [email](mailto:callmealexsam@gmail.com).
 
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100">
+
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseisamoilov&layout=compact&theme=radical)
 
