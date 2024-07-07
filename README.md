@@ -1,9 +1,9 @@
 # Hi, I'm Aleksei!
 
 ## About Me
-- 🌱 Currently learning full stack development: HTML, CSS, SCSS, JS, React, TS, Nest.js.
+- 🌱 Currently learning full stack development: HTML, CSS, SCSS, JS, React, TS, Nest.js, MongoDB, PostgreSQL.
 - 👯 Looking to collaborate on interesting projects.
-- 📫 How to reach me: [your email](mailto:callmealexsam@gmail.com).
+- 📫 How to reach me: [email](mailto:callmealexsam@gmail.com).
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseisamoilov&layout=compact&theme=radical)
