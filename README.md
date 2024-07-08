@@ -1,7 +1,6 @@
 # Hi, I'm Aleksei!
 
 ## About Me
-## About Me
 - 🌱 Currently learning full stack development:
   - ![HTML](https://img.icons8.com/color/16/000000/html-5.png) HTML
   - ![CSS](https://img.icons8.com/color/16/000000/css3.png) CSS
