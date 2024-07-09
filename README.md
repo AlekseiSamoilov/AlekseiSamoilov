@@ -1,6 +1,5 @@
-# Hi, I'm Aleksei!
+## Hi, I'm Aleksei!
 
-## About Me
 - 🌱 Currently learning full stack development: HTML, CSS, SCSS, JS, React, TS, Express, Nest.js, MongoDB, PostgreSQL.
 - 💻 Looking to collaborate on interesting projects.
 - 📫 How to reach me: [email](mailto:callmealexsam@gmail.com).
