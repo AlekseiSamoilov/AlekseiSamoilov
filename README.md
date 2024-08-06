@@ -6,7 +6,7 @@ const skills = {
   frontend: ['HTML', 'CSS', 'Sass', 'Tailwind', 'JavaScript', 'TypeScript', 'React'],
   backend: ['Node.js', 'Express', 'Nest.js'],
   databases: ['MongoDB', 'PostgreSQL'],
-  tools: ['Git', 'Docker', 'VS Code', 'Postman']
+  tools: ['Git', 'Docker', 'Postman']
 };
 ```
 
