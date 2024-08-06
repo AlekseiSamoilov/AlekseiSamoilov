@@ -1,4 +1,3 @@
-## Hi, I'm Aleksei!
 
 🌱 Currently learning full stack development: HTML, CSS, SCSS, JS, React, TS, Express, Nest.js, MongoDB, PostgreSQL.
 
