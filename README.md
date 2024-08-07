@@ -1,5 +1,5 @@
 
-### Full-Stack Web Developer
+### Full-Stack Web Development
 
 ```typescript
 const skills = {
