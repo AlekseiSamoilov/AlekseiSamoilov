@@ -3,7 +3,7 @@
 
 ```typescript
 const skills = {
-  frontend: ['HTML', 'CSS', 'Sass', 'Tailwind', 'JavaScript', 'TypeScript', 'React'],
+  frontend: ['HTML', 'CSS', 'Sass', 'Tailwind', 'JavaScript', 'TypeScript', 'React', 'Framer Motion'],
   backend: ['Node.js', 'Express', 'Nest.js'],
   databases: ['MongoDB', 'PostgreSQL'],
   tools: ['Git', 'Docker', 'Postman']
