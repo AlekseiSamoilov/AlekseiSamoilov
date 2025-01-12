@@ -2,7 +2,7 @@
 ### Full-Stack Web Development
 
 ```typescript
-const skills = {
+let skills = {
   frontend: ['HTML', 'CSS', 'Sass', 'Tailwind', 'JavaScript', 'TypeScript', 'React', 'Framer Motion'],
   backend: ['Node.js', 'Express', 'Nest.js'],
   databases: ['MongoDB', 'PostgreSQL'],
